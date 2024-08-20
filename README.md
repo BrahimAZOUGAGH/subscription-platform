@@ -18,7 +18,7 @@ Follow these steps to get the project up and running on your local machine:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/subscription-platform-api.git````
+   git clone https://github.com/your-username/subscription-platform-api.git```
 
 2. **Install Dependencies**
     
@@ -68,8 +68,10 @@ Follow these steps to get the project up and running on your local machine:
 
 ## API Documentation
 
-    The API documentation is available at:
-    ```bash
-    http://localhost:8000/api/documentation
-    ```
-    This Swagger UI will allow you to explore and interact with the API endpoints.
+The API documentation is available at:
+
+```bash 
+http://localhost:8000/api/documentation
+```
+
+This Swagger UI will allow you to explore and interact with the API endpoints.
